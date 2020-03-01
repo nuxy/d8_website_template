@@ -1,0 +1,21 @@
+/**
+ * Global overrides.
+ */
+body {
+  background-color: #fff;
+}
+
+.content-header {
+  display: none;
+}
+
+.visually-hidden {
+  display: none;
+}
+
+/**
+ * Page content.
+ */
+main.page-content {
+  display: none;
+}

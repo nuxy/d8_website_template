@@ -1,0 +1,10 @@
+website:
+  version: 1.x
+  css:
+    theme:
+      css/website.css: {}
+  js:
+    js/website.js: {}
+  dependencies:
+    - core/drupal
+    - core/jquery

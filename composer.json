@@ -1,0 +1,17 @@
+{
+    "name": "website",
+    "description": "Drupal 8 module template for creating a CMS-driven website.",
+    "type": "project",
+    "require-dev": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marc S. Brooks",
+            "email": "devel@mbrooks.info"
+        }
+    ],
+    "require": {
+        "drupal/coder": "^8.2"
+    }
+}

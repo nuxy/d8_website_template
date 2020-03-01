@@ -1,0 +1,7 @@
+website.config:
+  path: 'website'
+  defaults:
+    _controller: '\Drupal\website\Controller\WebsiteController::view'
+    _title: 'domain.com'
+  requirements:
+    _permission: 'access website content'
